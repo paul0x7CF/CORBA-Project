@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="389e820f-5b40-4d50-bd20-d9b0d0acc5bd" name="Changes" comment="iuiopip" />
+    <list default="true" id="389e820f-5b40-4d50-bd20-d9b0d0acc5bd" name="Changes" comment="bla" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683218183528</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="iuiopip">
+      <created>1683218220135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683218220135</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bla">
+      <created>1683218362290</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683218362290</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Project" />
     <MESSAGE value="iuiopip" />
-    <option name="LAST_COMMIT_MESSAGE" value="iuiopip" />
+    <MESSAGE value="bla" />
+    <option name="LAST_COMMIT_MESSAGE" value="bla" />
   </component>
 </project>
